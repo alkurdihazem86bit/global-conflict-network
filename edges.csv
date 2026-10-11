@@ -1,0 +1,26 @@
+edge_id,source_node_id,target_node_id,conflict_id,relation_type,relation_layer,direction,weight,weight_unit,start_date,end_date,directness,evidence_id,confidence,causal_claim
+EDGE-001,STATE-RUS,STATE-UKR,CONF-001,مواجهة عسكرية مباشرة,سياسي/أمني,ثنائي,high,intensity,2022-02-24,2026-10-11,مباشر,EV-001,موثق مباشر,لا
+EDGE-002,STATE-USA,STATE-UKR,CONF-001,دعم أمني وتسليح,عسكري,موجه,high,support_level,2022-02-24,2026-10-11,مباشر,EV-002,موثق مباشر,لا
+EDGE-003,ARMED-SAF,ARMED-RSF,CONF-002,مواجهة عسكرية مباشرة,سياسي/أمني,ثنائي,high,intensity,2023-04-15,2026-10-11,مباشر,EV-003,موثق مباشر,لا
+EDGE-004,ARMED-RSF,STATE-SDN,CONF-002,عنف ضد الدولة والمدنيين,سياسي/أمني,موجه,high,intensity,2023-04-15,2026-10-11,مباشر,EV-004,موثق مباشر,لا
+EDGE-005,ARMED-SAF,STATE-SDN,CONF-002,سيطرة حكومية جزئية,سياسي/أمني,موجه,medium,territorial_control,2023-04-15,2026-10-11,مباشر,EV-004,موثق مباشر,لا
+EDGE-006,STATE-ISR,ARMED-HAMAS,CONF-003,مواجهة عسكرية مباشرة,سياسي/أمني,ثنائي,high,intensity,2023-10-07,2026-10-11,مباشر,EV-005,موثق مباشر,لا
+EDGE-007,STATE-ISR,STATE-PSE,CONF-003,احتلال وقيود وصراع سيادي,سياسي/أمني,موجه,high,intensity,1948-05-15,2026-10-11,مباشر,EV-006,موثق مباشر,لا
+EDGE-008,ARMED-HOUTHI,STATE-YEM,CONF-004,سيطرة مسلحة جزئية,سياسي/أمني,موجه,high,territorial_control,2014-09-16,2026-10-11,مباشر,EV-007,موثق مباشر,لا
+EDGE-009,ARMED-HOUTHI,STATE-ISR,CONF-004,تهديد بحري وصاروخي,سياسي/أمني,موجه,medium,threat_level,2023-10-19,2026-10-11,مباشر,EV-008,موثق مباشر,لا
+EDGE-010,ARMED-JNIM,STATE-MLI,CONF-005,تمرد مسلح,سياسي/أمني,موجه,high,intensity,2012-01-16,2026-10-11,مباشر,EV-009,موثق مباشر,لا
+EDGE-011,ARMED-ISSP,STATE-BFA,CONF-005,تمرد مسلح,سياسي/أمني,موجه,high,intensity,2015-01-01,2026-10-11,مباشر,EV-009,موثق مباشر,لا
+EDGE-012,ARMED-WAGNER,STATE-MLI,CONF-005,دعم أمني وتدريب,عسكري,موجه,medium,support_level,2021-01-01,2026-10-11,مباشر,EV-010,موثق مباشر,لا
+EDGE-013,ORG-UN,STATE-SDN,CONF-002,وساطة وإنسانية,خفض تصعيد,موجه,medium,engagement,2023-04-15,2026-10-11,مباشر,EV-011,موثق مباشر,لا
+EDGE-014,STATE-QAT,STATE-ISR,CONF-003,وساطة دبلوماسية,خفض تصعيد,موجه,medium,engagement,2023-10-07,2026-10-11,مباشر,EV-012,موثق مباشر,لا
+EDGE-015,STATE-EGY,STATE-ISR,CONF-003,وساطة وتهدئة,خفض تصعيد,موجه,medium,engagement,2023-10-07,2026-10-11,مباشر,EV-012,موثق مباشر,لا
+EDGE-016,STATE-RUS,STATE-CHN,CONF-001,اعتماد طاقة وتجارة,اقتصادي,موجه,high,trade_volume,2022-02-24,2026-10-11,غير مباشر,EV-013,موثق مباشر,لا
+EDGE-017,STATE-CHN,STATE-USA,CONF-001,اعتماد تجاري متبادل,اقتصادي,ثنائي,high,trade_volume,2020-01-01,2026-10-11,غير مباشر,EV-014,موثق مباشر,لا
+EDGE-018,ARMED-HOUTHI,STATE-EGY,CONF-004,تهديد ممر البحر الأحمر,اقتصادي,موجه,high,transit_risk,2023-11-19,2026-10-11,غير مباشر,EV-008,موثق مباشر,لا
+EDGE-019,ARMED-HOUTHI,STATE-CHN,CONF-004,تهديد ممر البحر الأحمر,اقتصادي,موجه,medium,transit_risk,2023-11-19,2026-10-11,غير مباشر,EV-008,موثق مباشر,لا
+EDGE-020,STATE-SDN,STATE-EGY,CONF-002,تدفق لاجئين,إنساني,موجه,high,refugee_flow,2023-04-15,2026-10-11,غير مباشر,EV-011,موثق مباشر,لا
+EDGE-021,STATE-SDN,STATE-CHN,CONF-002,اعتماد طاقة وتجارة,اقتصادي,موجه,medium,trade_volume,2023-04-15,2026-10-11,غير مباشر,EV-003,موثق مباشر,لا
+EDGE-022,STATE-ISR,STATE-EGY,CONF-003,اعتماد طاقة وتجارة,اقتصادي,ثنائي,medium,trade_volume,2020-01-01,2026-10-11,غير مباشر,EV-012,موثق مباشر,لا
+EDGE-023,STATE-MLI,STATE-CHN,CONF-005,اعتماد تجاري واستثمار,اقتصادي,موجه,medium,investment,2020-01-01,2026-10-11,غير مباشر,EV-009,موثق مباشر,لا
+EDGE-024,STATE-RUS,STATE-IRN,CONF-001,تعاون عسكري وتكنولوجي,عسكري,ثنائي,medium,cooperation,2022-02-24,2026-10-11,غير مباشر,EV-001,موثق مباشر,لا
+EDGE-025,STATE-IRN,ARMED-HOUTHI,CONF-004,دعم عسكري وتسليح,عسكري,موجه,medium,support_level,2014-09-16,2026-10-11,غير مباشر,EV-007,موثق مباشر,لا

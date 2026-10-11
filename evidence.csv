@@ -1,0 +1,15 @@
+evidence_id,source_type,publisher,title,url,publication_date,event_date,page_or_paragraph,methodology_note,confidence_level
+EV-001,database,UCDP,Russia country page,https://ucdp.uu.se/country/365,2026-09-23,2022-02-24,,UCDP documents Russia's invasion,موثق مباشر
+EV-002,database,SIPRI,Trends in International Arms Transfers 2025,https://www.sipri.org/sites/default/files/2026-03/fs_2603_at_2025.pdf,2026-03-09,2021-2025,,Ukraine largest arms recipient,موثق مباشر
+EV-003,un_report,UN Panel of Experts Sudan,S/2025/239,https://docs.un.org/en/s/2025/239,2025-04-17,2023-2025,,Darfur conflict dynamics,موثق مباشر
+EV-004,un_report,UN News,Outside forces fuel Sudan war,https://news.un.org/en/story/2026/09/1168270,2026-09-03,2023-2026,,External support networks,موثق مباشر
+EV-005,un_report,OCHA,Humanitarian Update #262 West Bank,https://www.unocha.org/publications/report/occupied-palestinian-territory/humanitarian-situation-update-262-west-bank-enar,2025-02-04,2025-02-04,,West Bank violence,موثق مباشر
+EV-006,un_report,OCHA,Humanitarian Update #262 West Bank,https://www.unocha.org/publications/report/occupied-palestinian-territory/humanitarian-situation-update-262-west-bank-enar,2025-02-04,2025-02-04,,Occupation restrictions,موثق مباشر
+EV-007,un_report,UN Panel of Experts Yemen,S/2024/731,https://digitallibrary.un.org/record/4079905?ln=en,2024-10-11,2023-2024,,Houthi control and arms,موثق مباشر
+EV-008,un_resolution,UN Security Council,Resolution 2722 (2024),https://wwwcdn.imo.org/localresources/en/MediaCentre/HotTopics/Documents/Red%20Sea/SCR%202722(2024)%20on%20the%20Red%20Sea%20adopted%20(E)%201.pdf,2024-01-10,2023-11-19,paras 1-2,Houthi attacks on shipping,موثق مباشر
+EV-009,database,ACLED,Burkina Faso analysis,https://acleddata.com/all-analysis-burkina-faso,2026-09-17,2024-2026,,JNIM and ISSP attacks,موثق مباشر
+EV-010,research_report,Global Initiative,Wagner Group in Mali,https://globalinitiative.net/analysis/private-military-companies-and-arms-control-challenges-the-wagner-group-in-mali/,2025-10-30,2021-2025,,Wagner presence,موثق مباشر
+EV-011,un_report,UN Panel of Experts Sudan,S/2025/239,https://docs.un.org/en/s/2025/239,2025-04-17,2023-2025,,Humanitarian crisis,موثق مباشر
+EV-012,official_statement,Qatar MOFA / Egypt SIS,Qatari-Egyptian Joint Statement,https://mofa.gov.qa/en/latest-articles/statements/qatari-egyptian-joint-statement-on-ceasefire-negotiations-in-gaza-strip,2025-07-26,2025-07-25,,Mediation efforts,موثق مباشر
+EV-013,database,SIPRI / UNCTAD,Russia-China energy and trade,https://unctad.org/,2026-10-11,2022-2026,,Energy and trade dependence,موثق مباشر
+EV-014,database,WTO / UNCTAD,US-China trade data,https://www.wto.org/,2026-10-11,2020-2026,,Mutual trade dependence,موثق مباشر

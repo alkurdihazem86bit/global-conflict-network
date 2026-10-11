@@ -1,0 +1,23 @@
+actor_id,actor_type,name_ar,name_en,iso_code,region,legal_status,role_note,confidence
+STATE-RUS,state,روسيا,Russian Federation,RUS,أوروبا الشرقية,سيادي,طرف مباشر,موثق مباشر
+STATE-UKR,state,أوكرانيا,Ukraine,UKR,أوروبا الشرقية,سيادي,طرف مباشر,موثق مباشر
+STATE-USA,state,الولايات المتحدة,United States,USA,أمريكا الشمالية,سيادي,فاعل دولي,موثق مباشر
+STATE-CHN,state,الصين,China,CHN,شرق آسيا,سيادي,فاعل دولي,موثق مباشر
+STATE-SDN,state,السودان,Republic of the Sudan,SDN,القرن الأفريقي,سيادي,دولة النزاع,موثق مباشر
+ARMED-SAF,armed_group,القوات المسلحة السودانية,SAF,,القرن الأفريقي,حكومي/مسلح,طرف رئيسي,موثق مباشر
+ARMED-RSF,armed_group,قوات الدعم السريع,RSF,,القرن الأفريقي,مسلح غير حكومي,طرف رئيسي,موثق مباشر
+STATE-ISR,state,إسرائيل,Israel,ISR,الشرق الأوسط,سيادي,طرف في النزاع,موثق مباشر
+STATE-PSE,state,فلسطين,State of Palestine,PSE,الشرق الأوسط,سيادي,طرف في النزاع,موثق مباشر
+ARMED-HAMAS,armed_group,حماس,Hamas,,الشرق الأوسط,مسلح غير حكومي,طرف في النزاع,موثق مباشر
+ARMED-HOUTHI,armed_group,أنصار الله الحوثيون,Houthis,,الشرق الأوسط,مسلح غير حكومي,طرف في النزاع,موثق مباشر
+STATE-YEM,state,اليمن,Yemen,YEM,الشرق الأوسط,سيادي,دولة النزاع,موثق مباشر
+STATE-MLI,state,مالي,Mali,MLI,الساحل الأفريقي,سيادي,دولة متأثرة,موثق مباشر
+STATE-BFA,state,بوركينا فاسو,Burkina Faso,BFA,الساحل الأفريقي,سيادي,دولة متأثرة,موثق مباشر
+STATE-NER,state,النيجر,Niger,NER,الساحل الأفريقي,سيادي,دولة متأثرة,موثق مباشر
+ARMED-JNIM,armed_group,جماعة نصر الإسلام والمسلمين,JNIM,,الساحل الأفريقي,مسلح غير حكومي,جماعة مسلحة,موثق مباشر
+ARMED-ISSP,armed_group,تنظيم الدولة في الساحل,IS Sahel,,الساحل الأفريقي,مسلح غير حكومي,جماعة مسلحة,موثق مباشر
+ARMED-WAGNER,armed_group,فاغنر/فيلق أفريقيا,Wagner/Africa Corps,,أفريقيا/روسيا,مسلح غير حكومي,فاعل خارجي,موثق مباشر
+STATE-IRN,state,إيران,Iran,IRN,الشرق الأوسط,سيادي,فاعل إقليمي,موثق مباشر
+STATE-EGY,state,مصر,Egypt,EGY,الشرق الأوسط,سيادي,وسيط ودولة مجاورة,موثق مباشر
+STATE-QAT,state,قطر,Qatar,QAT,الشرق الأوسط,سيادي,وسيط دبلوماسي,موثق مباشر
+ORG-UN,international_org,الأمم المتحدة,United Nations,UN,عالمي,دولي,وساطة وإنسانية,موثق مباشر
